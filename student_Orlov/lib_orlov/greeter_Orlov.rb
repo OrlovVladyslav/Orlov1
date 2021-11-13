@@ -4,7 +4,7 @@ class Greeter
 
     @who = w 
 
-  end 
+  end    
 
   def greet 
 
